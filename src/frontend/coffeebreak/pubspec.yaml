@@ -1,0 +1,53 @@
+name: coffeebreak
+description: "A new Flutter project."
+publish_to: "none" # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.3.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  provider: ^6.0.1
+  cupertino_icons: ^1.0.6
+  font_awesome_flutter: ^10.7.0
+  url_launcher: ^6.2.6
+  flutter_svg: ^2.0.10+1
+  video_player: ^2.8.6 
+  like_button: ^2.0.5
+  shared_preferences: ^2.0.10
+  hooks_riverpod: ^2.5.1
+  flutter_dotenv: ^5.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.13.1
+
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/img/app-icon.png"
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/img/
+    - assets/icons/
+    - assets/icons/macrothemes/
+    - assets/videos/splash.mp4 
+    - assets/img/created_project.png
+
+  fonts:
+    - family: Satoshi
+      fonts:
+        - asset: assets/fonts/Satoshi-Variable.ttf
+        - asset: assets/fonts/Satoshi-Black.otf
+        - asset: assets/fonts/Satoshi-Bold.otf
+        - asset: assets/fonts/Satoshi-Medium.otf
+        - asset: assets/fonts/Satoshi-Regular.otf
+        - asset: assets/fonts/Satoshi-Light.otf

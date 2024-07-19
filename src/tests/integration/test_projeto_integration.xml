@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="ProjetoIntegrationTest-20240608132952" tests="2" file=".py" time="9.025" timestamp="2024-06-08T13:30:01" failures="0" errors="0" skipped="0">
+		<testcase classname="ProjetoIntegrationTest" name="test_get_projetos" time="4.767" timestamp="2024-06-08T13:29:57" file="src\tests\integration\test_projeto_integration.py" line="30"/>
+		<testcase classname="ProjetoIntegrationTest" name="test_post_projeto" time="4.258" timestamp="2024-06-08T13:30:01" file="src\tests\integration\test_projeto_integration.py" line="51"/>
+	</testsuite>
+</testsuites>

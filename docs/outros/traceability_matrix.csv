@@ -1,0 +1,26 @@
+Método,Código do Requsito
+send_notification,['RF-013']
+get_ceos,['RF-005']
+get_ceo,['RF-005']
+create_ceo,['RF-001']
+update_ceo,['RF-002']
+delete_ceo,['RF-004']
+login,['RF-003']
+get_projetos,['RF-023']
+get_projeto,"['RF-021', 'RF-024']"
+post_projeto,['RF-006']
+put_projeto,"['RF-007', 'RF-021']"
+delete_projeto,['RF-008']
+get_projetos_ceo,['RF-015']
+post_sinergia,['RF-010']
+post_aceitar_sinergia,"['RF-012', 'RF-014']"
+get_projetos_macrotema,['RF-017']
+get_macrotemas,['RF-027']
+get_subtemas_macrotema,['RF-028']
+get_macrotemas_ceo,['RF-027']
+get_projetos_busca,"['RF-017', 'RF-029']"
+gerar_recomendacao,['RF-016']
+post_curtida,['RF-009']
+post_salvos,['RF-011']
+get_curtidos,['RF-018']
+get_salvos,['RF-018']

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="SinergiaIntegrationTest-20240608172052" tests="1" file=".py" time="4.534" timestamp="2024-06-08T17:20:57" failures="0" errors="0" skipped="0">
+		<testcase classname="SinergiaIntegrationTest" name="test_post_sinergia" time="4.534" timestamp="2024-06-08T17:20:57" file="src\tests\integration\test_sinergia_integration.py" line="28"/>
+	</testsuite>
+</testsuites>

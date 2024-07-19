@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="RecomendacaoIntegrationTest-20240608140604" tests="1" file=".py" time="27.018" timestamp="2024-06-08T14:06:31" failures="0" errors="0" skipped="0">
+		<testcase classname="RecomendacaoIntegrationTest" name="test_gerar_recomendacao" time="27.018" timestamp="2024-06-08T14:06:31" file="src\tests\integration\test_recomendacao_integration.py" line="25"/>
+	</testsuite>
+</testsuites>

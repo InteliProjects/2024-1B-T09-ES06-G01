@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+	<testsuite name="CeoIntegrationTest-20240608133800" tests="2" file=".py" time="9.450" timestamp="2024-06-08T13:38:09" failures="0" errors="0" skipped="0">
+		<testcase classname="CeoIntegrationTest" name="test_get_ceos" time="4.900" timestamp="2024-06-08T13:38:05" file="src\tests\integration\test_ceo_integration.py" line="28"/>
+		<testcase classname="CeoIntegrationTest" name="test_post_ceo" time="4.550" timestamp="2024-06-08T13:38:09" file="src\tests\integration\test_ceo_integration.py" line="49"/>
+	</testsuite>
+</testsuites>
